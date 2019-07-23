@@ -1,0 +1,158 @@
+[
+  {
+   "idNumber": "000001",
+   "type": "image",
+   "title": "Hay Bales",
+   "name": "01.jpg",
+   "path": "img/",
+   "thumb": "img/thumbnails/",
+   "caption": "I love hay bales. Took this snap on a drive through the countryside past some straw fields.",
+   "isShowing": "true"
+  },
+  {
+   "idNumber": "000002",
+   "type": "video",
+   "title": "Anybody Can Code",
+   "tubeId": "Wnr8LRO7CiA",
+   "path": "https://www.youtube.com/embed/",
+   "caption": "In less than 10 months of using Treehouse, Bryan landed his first full time professional programming job and got a huge increase in salary! Join Treehouse today, start your free trial and become our next success story!",
+   "isShowing": "true"
+  },
+  {
+   "idNumber": "000003",
+   "type": "image",
+   "title": "Lake",
+   "name": "02.jpg",
+   "path": "img/",
+   "thumb": "img/thumbnails/",
+   "caption": "The lake was so calm today.",
+   "isShowing": "true"
+  },
+  {
+   "idNumber": "000004",
+   "type": "image",
+   "title": "Canyon",
+   "name": "03.jpg",
+   "path": "img/",
+   "thumb": "img/thumbnails/",
+   "caption": "Hiked to the top of the mountain and got this picture of the canyon and trees below.",
+   "isShowing": "true"
+  },
+  {
+   "idNumber": "000005",
+   "type": "image",
+   "title": "Iceberg",
+   "name": "04.jpg",
+   "path": "img/",
+   "thumb": "img/thumbnails/",
+   "caption": "It was amazing to see an iceberg up close, it was so cold but didn’t snow today.",
+   "isShowing": "true"
+  },
+  {
+   "idNumber": "000006",
+   "type": "image",
+   "title": "Desert",
+   "name": "05.jpg",
+   "path": "img/",
+   "thumb": "img/thumbnails/",
+   "caption": "The red cliffs were beautiful. It was really hot in the desert but we did a lot of walking through the canyons.",
+   "isShowing": "true"
+  },
+  {
+   "idNumber": "000007",
+   "type": "image",
+   "title": "Fall",
+   "name": "06.jpg",
+   "path": "img/",
+   "thumb": "img/thumbnails/",
+   "caption": "Fall is coming, I love when the leaves on the trees start to change color.",
+   "isShowing": "true"
+  },
+  {
+   "idNumber": "000008",
+   "type": "video",
+   "title": "Risk and Reward: Joe’s Story",
+   "tubeId": "8B7YGwiwK9s",
+   "path": "https://www.youtube.com/embed/",
+   "caption": "Joe had always thought you needed to fit a certain stereotype to be a developer. When he realized there was the opportunity for him to learn to code and make a difference as a developer, he took the risk and switched careers. Since learning with Treehouse, Joe has embraced a rewarding career as a developer.",
+   "isShowing": "true"
+  },
+  {
+   "idNumber": "000009",
+   "type": "image",
+   "title": "Plantation",
+   "name": "07.jpg",
+   "path": "img/",
+   "thumb": "img/thumbnails/",
+   "caption": "I drove past this plantation yesterday, everything is so green!",
+   "isShowing": "true"
+  },
+  {
+   "idNumber": "000010",
+   "type": "image",
+   "title": "Dunes",
+   "name": "08.jpg",
+   "path": "img/",
+   "thumb": "img/thumbnails/",
+   "caption": "My summer vacation to the Oregon Coast. I love the sandy dunes!",
+   "isShowing": "true"
+  },
+  {
+   "idNumber": "000011",
+   "type": "video",
+   "title": "Becoming a Developer without a College Degree: Scott's Story",
+   "tubeId": "AfOYjpBCItU",
+   "path": "https://www.youtube.com/embed/",
+   "caption": "Scott chose to learn to code online with Treehouse after dropping out of college to avoid the debt of student loans. He finished the Front End Development Track in 6 weeks, and a week later landed a position as a front end developer. Students like Scott all over the world use Treehouse to learn to code and set themselves on a path to success.",
+   "isShowing": "true"
+  },
+  {
+   "idNumber": "000012",
+   "type": "image",
+   "title": "Countryside Lane",
+   "name": "09.jpg",
+   "path": "img/",
+   "thumb": "img/thumbnails/",
+   "caption": "We enjoyed a quiet stroll down this countryside lane.",
+   "isShowing": "true"
+  },
+  {
+   "idNumber": "000013",
+   "type": "video",
+   "title": "Imagine What You Can Do in a Year",
+   "tubeId": "G3_mPxmdkWA",
+   "path": "https://www.youtube.com/embed/",
+   "caption": "Ashley had plateaued in her job and was looking for a new career path doing something creative, that would also give her the flexibility to spend time with her family. In a year – without a college degree or any previous coding experience – Ashley learned to code and built an impressive portfolio of projects.",
+   "isShowing": "true"
+  },
+  {
+   "idNumber": "000014",
+   "type": "image",
+   "title": "Sunset",
+   "name": "10.jpg",
+   "path": "img/",
+   "thumb": "img/thumbnails/",
+   "caption": "We enjoyed a quiet stroll down this countryside lane.",
+   "isShowing": "true"
+  }, 
+  {
+   "idNumber": "000015",
+   "type": "image",
+   "title": "Cave",
+   "name": "11.jpg",
+   "path": "img/",
+   "thumb": "img/thumbnails/",
+   "caption": "I did a tour of a cave today and the view of the landscape below was breathtaking.",
+   "isShowing": "true"
+  },
+  {
+   "idNumber": "000016",
+   "type": "image",
+   "title": "Bluebells",
+   "name": "12.jpg",
+   "path": "img/",
+   "thumb": "img/thumbnails/",
+   "caption": "I walked through this meadow of bluebells and got a good view of the snow on the mountain before the fog came in.",
+   "isShowing": "true"
+  }
+]
